@@ -13,6 +13,8 @@ PANTHER Gene Ontology web viewer: https://amigo.geneontology.org/amigo
 
 - "Mus Musculus"
 
+- After the PANTHER viewer is open, change "Annotation Data Set" to various options
+  - "GO biological process complete", "PANTHER GO-slim biological process", "PANTHER pathways", "Reactome pathways"
 
 
 Contact ryansummerhays@gmail.com with any questions.
