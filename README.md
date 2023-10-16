@@ -1,4 +1,4 @@
-# WakeForest-Gene-Ontology
+# Mouse-Embryo-Redox-Proteomic-Gene-Ontology
 
 Contains Gene Ontology Analysis from Mouse Embryo Redox Proteomic data (Gestational Days 8-9).\
 UniProt IDs represent the proteins that undergo the greatest redox changes during unmanipulated development (calculated via ANOVA).
